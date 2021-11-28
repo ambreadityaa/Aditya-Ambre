@@ -8,11 +8,13 @@
 
 <br />
 
-
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" ><img  alt="Aditya-Ambre" src="https://komarev.com/ghpvc/?username=Aditya-Ambre&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Ambre&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Ambre&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<a target="_blank" rel="noopener noreferrer" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Ambre&amp;%22%20alt=%22Aditya-Ambre&amp;theme=material-palenight&amp;" style="max-width: 100%;"></a>
+
+
+<a  target="_blank" rel="noopener noreferrer" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Ambre&amp;%22%20alt=%22Aditya-Ambre&amp;theme=material-palenight&amp;" style="max-width: 100%;"></a>
 <!---
 #### Top Repositories
 
