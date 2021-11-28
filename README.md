@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Front End Frame Works
 - 👯 I’m looking to collaborate on Full Stack Project
-- 🤔 I’m looking for help with Backnd 
+- 🤔 I’m looking for help with Backend 
 - 📫 How to reach me: [Twitter - AdityaAmbre_19](https://twitter.com/AdityaAmbre_19)
 
 <br />
