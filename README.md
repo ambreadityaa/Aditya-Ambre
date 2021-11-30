@@ -14,7 +14,9 @@
 | ------------- | ------------- |
 
 
-<a  target="_blank" rel="noopener noreferrer" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Ambre&amp;%22%20alt=%22Aditya-Ambre&amp;theme=material-palenight&amp;" style="max-width: 100%;"></a>
+<a  target="_blank" rel="noopener noreferrer" >
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Ambre&amp;%22%20alt=%22Aditya-Ambre&amp;theme=buefy&amp;" style="max-width: 100%;">
+</a>
 <!---
 #### Top Repositories
 
