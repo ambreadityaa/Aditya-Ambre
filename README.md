@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Full Stack Project
 - 🤔 I’m looking for help with Backend 
 - 📫 How to reach me: [Twitter - AdityaAmbre_19](https://twitter.com/AdityaAmbre_19)
-
+<hr>
 <br />
 
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" ><img  alt="Aditya-Ambre" src="https://komarev.com/ghpvc/?username=Aditya-Ambre&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
